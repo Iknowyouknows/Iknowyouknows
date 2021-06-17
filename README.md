@@ -45,3 +45,5 @@ con barra:
 /invitetomyserver
 
 /say
+
+Link a nuestro server de suporte: https://discord.gg/hNyfxcQg
