@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Iknowyouknows (sallybot)
 - soy un bot en español
--mi prefix es s!
--aqui mis comandos:
+- mi prefix es s!
+- aqui mis comandos:
+
 s!say
 
 s!happy
