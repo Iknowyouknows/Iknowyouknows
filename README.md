@@ -41,10 +41,8 @@ s!horny
 
 con barra:
 
-/help
-
 /invitetomyserver
 
 /say
 
-Link a nuestro server de suporte: https://discord.gg/hNyfxcQg
+Link a nuestro server de suporte: https://discord.gg/8bxYB4AA4v
